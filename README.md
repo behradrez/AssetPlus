@@ -1,10 +1,9 @@
-# :hotel::heavy_plus_sign: ECSE223 AssetPlus Project: Team N
+# :hotel::heavy_plus_sign: ECSE223 AssetPlus Project: Team 11
 
-_(Edit this file as needed, then remove this sentence)._
 
 ## Project Overview
 
-_Provide a one-sentence overview of your project here._
+AssetPlus is an desktop application that allows for the managing and tracking of maintenance tickets, assets, as well as guests & employees of a hotel. Completed as part of a team project in ECSE223.
 
 For more information about the AssetPlus application, please consult the [wiki](../../wiki).
 
